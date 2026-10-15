@@ -1,13 +1,13 @@
 # Stremio-Setup
 <p align="center">
-O [Stremio](https://www.stremio.com/) é um moderno centro de mídia, de código aberto, que oferece a liberdade de assistir tudo o que você deseja, com a possibilidade de assistir diversos filmes, programas de TV, canais da Web, esportes, canais de TV, ouvir podcasts e muito mais. Graças ao sistema de Addons, você pode acessar uma variedade de conteúdos. Ele também é multi plataformas (incluindo Windows, Mac, Linux, Android e muito mais), o Stremio manterá o controle do seu progresso em todos os seus dispositivos.
+O Stremio é um moderno centro de mídia, de código aberto, que oferece a liberdade de assistir tudo o que você deseja, com a possibilidade de assistir diversos filmes, programas de TV, canais da Web, esportes, canais de TV, ouvir podcasts e muito mais. Graças ao sistema de Addons, você pode acessar uma variedade de conteúdos. Ele também é multi plataformas (incluindo Windows, Mac, Linux, Android e muito mais), o Stremio manterá o controle do seu progresso em todos os seus dispositivos.
 </p>
 
 <p align="center">
       <img src="./assets/img/devices-home-mobile@2x-Dmb3s3tn.png" alt="Banner"/>
 </p>
 
-Os addons são o maior diferencial desse app. Após você se registrar, você pode explorar os addons existentes na loja para poder assistir seus filmes, séries e o que desejar, totalmente de graça. 
+Os addons são o maior diferencial desse app. Após você se registrar, você pode explorar os addons existentes na loja para poder assistir seus filmes, séries e o que desejar, totalmente de graça. Link do site oficial do [Stremio](https://www.stremio.com/).
 
 Abaixo, segue meu setup de addons que eu uso, presentes no site deles, com o link direto para a intalação deles. [Repositório com os addons do Stremio](https://stremio-addons.net/addons)
 
