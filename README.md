@@ -7,7 +7,7 @@ O Stremio é um moderno centro de mídia, de código aberto, que oferece a liber
       <img src="./assets/img/devices-home-mobile@2x-Dmb3s3tn.png" alt="Banner"/>
 </p>
 
-Os addons são o maior diferencial desse app. Após você se registrar, você pode explorar os addons existentes na loja para poder assistir seus filmes, séries e o que desejar, totalmente de graça. Link do site oficial do [Stremio](https://www.stremio.com/).
+Os addons são o maior diferencial desse app. Após você se registrar, você pode explorar os addons existentes na loja para poder assistir seus filmes, séries e o que desejar, totalmente de graça. [Link do site oficial do Stremio](https://www.stremio.com/).
 
 Abaixo, segue meu setup de addons que eu uso, presentes no site deles, com o link direto para a intalação deles. [Repositório com os addons do Stremio](https://stremio-addons.net/addons)
 
