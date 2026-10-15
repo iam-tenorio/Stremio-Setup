@@ -4,7 +4,7 @@ O [Stremio](https://github.com/Stremio) é um moderno centro de mídia, de códi
 </p>
 
 <p align="center">
-![[/assets/img/devices-home-mobile@2x-Dmb3s3tn.png]]
+![[assets/img/devices-home-mobile@2x-Dmb3s3tn.png]]
 </p>
 
 Os addons são o maior diferencial desse app. Após você se registrar, você pode explorar os addons existentes na loja para poder assistir seus filmes, séries e o que desejar, totalmente de graça. 
