@@ -1,6 +1,6 @@
 # Stremio-Setup
 <p align="center">
-O [Stremio](https://github.com/Stremio) é um moderno centro de mídia, de código aberto, que oferece a liberdade de assistir tudo o que você deseja, com a possibilidade de assistir diversos filmes, programas de TV, canais da Web, esportes, canais de TV, ouvir podcasts e muito mais. Graças ao sistema de Addons, você pode acessar uma variedade de conteúdos. Ele também é multi plataformas (incluindo Windows, Mac, Linux, Android e muito mais), o Stremio manterá o controle do seu progresso em todos os seus dispositivos. [Download do Stremio](https://www.stremio.com/translation/br/downloads).
+O [Stremio](https://www.stremio.com/) é um moderno centro de mídia, de código aberto, que oferece a liberdade de assistir tudo o que você deseja, com a possibilidade de assistir diversos filmes, programas de TV, canais da Web, esportes, canais de TV, ouvir podcasts e muito mais. Graças ao sistema de Addons, você pode acessar uma variedade de conteúdos. Ele também é multi plataformas (incluindo Windows, Mac, Linux, Android e muito mais), o Stremio manterá o controle do seu progresso em todos os seus dispositivos.
 </p>
 
 <p align="center">
