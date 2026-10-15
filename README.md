@@ -13,13 +13,13 @@ Abaixo, segue meu setup de addons que eu uso, presentes no site deles, com o lin
 
 > Observação: isso foi feito pensando no público brasileiro. Se você é de outro país, eu sugiro dar uma olhada na loja de addons do stremio.
 
-\- [FrostStream](https://stremio-addons.net/addons/froststream)
-\- [FenixFlix](https://stremio-addons.net/addons/fenixflix)
-\- [BestCine](https://stremio-addons.net/addons/bestcine)  
-\- [UnioFlix](https://stremio-addons.net/addons/unioflix)  
-\- [TorrentClaw](https://stremio-addons.net/addons/torrentclaw-addon)  
-\- [Brazuca Torrents](https://stremio-addons.net/addons/brazuca-torrents)
-\- [torrentio](https://stremio-addons.net/addons/torrentio) 
-\- [showbox](https://stremio-addons.net/addons/showbox)
+- [FrostStream](https://stremio-addons.net/addons/froststream)
+- [FenixFlix](https://stremio-addons.net/addons/fenixflix)
+- [BestCine](https://stremio-addons.net/addons/bestcine)  
+- [UnioFlix](https://stremio-addons.net/addons/unioflix)  
+- [TorrentClaw](https://stremio-addons.net/addons/torrentclaw-addon)  
+- [Brazuca Torrents](https://stremio-addons.net/addons/brazuca-torrents)
+- [torrentio](https://stremio-addons.net/addons/torrentio) 
+- [showbox](https://stremio-addons.net/addons/showbox)
 
 Com isso, você terá um enorme repositório com vários filmes pra você assistir totalmente de grátis. 👀
