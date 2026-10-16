@@ -21,5 +21,6 @@ Abaixo, segue meu setup de addons que eu uso, presentes no site deles, com o lin
 - [Brazuca Torrents](https://stremio-addons.net/addons/brazuca-torrents)
 - [torrentio](https://stremio-addons.net/addons/torrentio) 
 - [showbox](https://stremio-addons.net/addons/showbox)
+- [Nyaa Anime BR](https://stremio-addons.net/addons/nyaa-anime-br)
 
 Com isso, você terá um enorme repositório com vários filmes pra você assistir totalmente de grátis. 👀
